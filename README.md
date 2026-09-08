@@ -57,8 +57,8 @@ Focused on creating fast, accessible, and polished digital experiences.
 
 <ul>
   <li><b>Portfolio:</b> Coming soon</li>
-  <li><b>Email:</b> your.email@example.com</li>
-  <li><b>LinkedIn:</b> https://linkedin.com/in/YOUR_USERNAME</li>
+  <li><b>Email:</b> adeniranjesutoba@gmail.com</li>
+  <li><b>LinkedIn:</b> https://linkedin.com/in/jesutobaadeniran</li>
 </ul>
 
 <p align="center">
