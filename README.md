@@ -49,16 +49,6 @@ Focused on creating fast, accessible, and polished digital experiences.
   <li>Turning designs into production-ready interfaces</li>
 </ul>
 
-<!-- Selected Work -->
-
-<h2><b>Selected Work</b></h2>
-
-<ul>
-  <li><b>Project One</b> — Responsive web application built with modern front-end technologies.</li>
-  <li><b>Project Two</b> — Interactive interface focused on usability and clean component architecture.</li>
-  <li><b>Project Three</b> — Modern landing page with responsive layouts and performance-focused implementation.</li>
-</ul>
-
 
 
 <!-- Contact -->
