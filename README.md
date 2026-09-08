@@ -1,8 +1,8 @@
 <h1 align="center"><b>👋 Adeniran Jesutoba</b> — Front-End Developer</h1>
 
 <p align="center">
-I build <b>modern, responsive, and user-focused web interfaces</b> with clean code and thoughtful design.<br/>
-Focused on creating fast, accessible, and polished digital experiences.
+I build <b>modern, responsive and user-focused web interfaces</b> with clean code and thoughtful design.<br/>
+Focused on creating fast, accessible and polished digital experiences.
 </p>
 
 <!-- Core Stack -->
